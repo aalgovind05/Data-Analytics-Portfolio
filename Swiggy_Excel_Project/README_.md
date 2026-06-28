@@ -6,7 +6,7 @@
 
 ## 📸 Dashboard Preview
 
-![Swiggy India Sales Dashboard](dashboard_preview.png)
+![Swiggy India Sales Dashboard](https://github.com/aalgovind05/Data-Analytics-Portfolio/blob/af338df017d691a4cc4d5fa71e3dd8cf35127900/Swiggy_Excel_Project/Swiggy_dashboard.xlsx.png)
 
 ---
 
